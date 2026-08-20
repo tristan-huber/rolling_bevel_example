@@ -173,7 +173,8 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 6.35,
+          "currentEquation": "6.35"
         },
         {
           "name": "Passes",
@@ -216,8 +217,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -5,
-          "currentEquation": "-5"
+          "ioValue": -5
         }
       ]
     },
@@ -229,8 +229,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 5
         }
       ]
     },
@@ -242,8 +241,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 15,
-          "currentEquation": "15"
+          "ioValue": 15
         }
       ]
     },
@@ -267,8 +265,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -5,
-          "currentEquation": "-5"
+          "ioValue": -5
         }
       ]
     },
@@ -346,7 +343,7 @@
         },
         {
           "name": "Shape 4",
-          "ioValue": null
+          "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
       "closedSelection": 0
